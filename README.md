@@ -5,11 +5,17 @@ This is a radio app where you can ask Alan AI to play some music.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/lalitkumawat1m/Flutter-AI-Radio-App/raw/main/ss/ai2.png)
-![App Screenshot](https://github.com/lalitkumawat1m/Flutter-AI-Radio-App/raw/main/ss/ai1.png)
-![App Screenshot](https://github.com/lalitkumawat1m/Flutter-AI-Radio-App/raw/main/ss/ai4.png)
-![App Screenshot](https://github.com/lalitkumawat1m/Flutter-AI-Radio-App/raw/main/ss/ai3.png)
-![App Screenshot](https://github.com/lalitkumawat1m/Flutter-AI-Radio-App/raw/main/ss/ai5.png)
+<div align="left">
+<img width="200" src="https://github.com/lalitkumawat1m/Flutter-AI-Radio-App/raw/main/ss/ai2.png" align="center" />
+</div> 
+
+<img width="200" src="https://github.com/lalitkumawat1m/Flutter-AI-Radio-App/raw/main/ss/ai1.png" align="center" />
+
+<img width="200" src="https://github.com/lalitkumawat1m/Flutter-AI-Radio-App/raw/main/ss/ai4.png" align="center" />
+
+<img width="200" src="https://github.com/lalitkumawat1m/Flutter-AI-Radio-App/raw/main/ss/ai3.png" align="center" />
+
+<img width="200" src="https://github.com/lalitkumawat1m/Flutter-AI-Radio-App/raw/main/ss/ai5.png" align="center" />
 
 
 ❤️ Found this project useful?
